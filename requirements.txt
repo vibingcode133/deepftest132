@@ -1,3 +1,0 @@
-deepface
-pandas
-scikit-learn # Often a useful dependency for numpy/scipy versions
