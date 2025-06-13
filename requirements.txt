@@ -1,0 +1,4 @@
+deepface
+pandas
+scikit-learn
+tf-keras
